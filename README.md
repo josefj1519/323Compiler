@@ -20,7 +20,7 @@ Result in the interim file:
   PRINT( be );
   END.
   ```
-  Then running the lex yacc on the interim file will output a C++ program. \
+  Then running the lex yacc using the interim file, will output a C++ program. \
   Result:
   ```
   #include <iostream>
