@@ -1,4 +1,4 @@
-# 323Compiler
+# Lexx & Yacc Compiler
 by: \
 Josef Jankowski \
 Jason Otter \
