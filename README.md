@@ -1,4 +1,4 @@
-# Lexx & Yacc Compiler
+# Lex & Yacc Compiler
 by: \
 Josef Jankowski \
 Jason Otter \
