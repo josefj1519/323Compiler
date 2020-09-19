@@ -4,7 +4,8 @@ Josef Jankowski \
 Jason Otter \
 Ian Nyguen 
 
-The C++ prgoram will parse the source text and remove comments, spaces, and new lines.  \
+The C++ prgoram will parse source.txt and remove comments, spaces, and new lines.  \
+
 Result in the interim file:
 ```
   PROGRAM aba13;
@@ -20,7 +21,7 @@ Result in the interim file:
   PRINT( be );
   END.
   ```
-  Then running the lex yacc using the interim file, will output a C++ program. \
+  Then running the makefile with  ```make```  will output a runnable C++ program. \
   Result:
   ```
   #include <iostream>
